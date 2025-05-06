@@ -1,0 +1,6 @@
+Bike
+Bus
+Cycle
+Rikshaw
+Road Divider
+Road Sign Board
